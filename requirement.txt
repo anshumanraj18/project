@@ -1,0 +1,3 @@
+pip install tabulate
+python project.py
+password - 0000
